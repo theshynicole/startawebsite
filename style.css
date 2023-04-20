@@ -1,0 +1,25 @@
+body{
+    background-color: darkseagreen;
+}
+ol.c{
+    list-style-type: upper-roman;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+}
+li{
+    font-family: 'Roboto', sans-serif;
+}
+img{
+    position: absolute;
+width: 460px;
+height: 345px;
+right: 200px;
+top: 93px;}
